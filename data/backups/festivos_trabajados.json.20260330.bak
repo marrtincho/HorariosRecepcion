@@ -1,0 +1,28 @@
+{
+  "2026-03-19": {
+    "festivo": "San José",
+    "tipo": "autonómico",
+    "trabajadores": {
+      "Jose Manuel": "Mañana",
+      "Martin": "Mañana",
+      "Carlos": "Mañana",
+      "Carla": "Tarde",
+      "Bego": "Noche",
+      "Igor": "Partido",
+      "Vero": "Tarde"
+    }
+  },
+  "2026-04-03": {
+    "festivo": "Viernes Santo",
+    "tipo": "nacional",
+    "trabajadores": {
+      "Jose Manuel": "Mañana",
+      "Martin": "Partido",
+      "Carlos": "Noche",
+      "Carla": "Tarde",
+      "Bego": "Tarde",
+      "Igor": "Mañana",
+      "Vero": "Tarde"
+    }
+  }
+}

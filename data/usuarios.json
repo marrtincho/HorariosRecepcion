@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "nombre": "Administrador",
+    "rol": "admin",
+    "hash": "8697d6b4b23ff06ecf4db171305f6310fe9d4aa423f748cdaa90a48a8474a4c4",
+    "salt": "1951675f639c46e10c356403ad2c6cb2",
+    "activo": true,
+    "empleado_vinculado": null
+  },
+  {
+    "id": "2",
+    "username": "encargado",
+    "nombre": "Jefe de recepcion",
+    "rol": "encargado",
+    "hash": "3f83daba14b1dc440b8dfdb7180725cb0b7283753c6c37398f35bbddf0a95cc5",
+    "salt": "32dab9f256d7f727d40b8e05bf0a7213",
+    "activo": true,
+    "empleado_vinculado": null
+  },
+  {
+    "id": "3",
+    "username": "martin",
+    "nombre": "Martin",
+    "rol": "empleado",
+    "hash": "f808f296dd91d5cf33b1167d4ab5e10e487bd743684560b21525abba98a93ae3",
+    "salt": "bcc73113e52b63a71cc4b09654187f55",
+    "activo": true,
+    "empleado_vinculado": "Martin"
+  }
+]

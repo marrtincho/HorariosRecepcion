@@ -1,0 +1,67 @@
+{
+  "2026-03-19": {
+    "festivo": "San José",
+    "tipo": "autonómico",
+    "trabajadores": {
+      "Jose Manuel": "Mañana",
+      "Martin": "Mañana",
+      "Carlos": "Mañana",
+      "Carla": "Tarde",
+      "Bego": "Noche",
+      "Igor": "Partido",
+      "Vero": "Tarde"
+    }
+  },
+  "2026-04-03": {
+    "festivo": "Viernes Santo",
+    "tipo": "nacional",
+    "trabajadores": {
+      "Jose Manuel": "Mañana",
+      "Martin": "Noche",
+      "Carlos": "Tarde",
+      "Carla": "Tarde",
+      "Bego": "Partido",
+      "Igor": "Mañana",
+      "Vero": "Tarde"
+    }
+  },
+  "2026-04-06": {
+    "festivo": "Lunes de Pascua",
+    "tipo": "autonómico",
+    "trabajadores": {
+      "Eder": "Noche",
+      "Jose Manuel": "Mañana",
+      "Carlos": "Mañana",
+      "Carla": "Partido",
+      "Bego": "Mañana",
+      "Andreea": "Tarde",
+      "Vero": "Tarde"
+    }
+  },
+  "2026-05-01": {
+    "festivo": "Fiesta del Trabajo",
+    "tipo": "nacional",
+    "trabajadores": {
+      "Jose Manuel": "Mañana",
+      "Martin": "Noche",
+      "Carlos": "Mañana",
+      "Carla": "Partido",
+      "Bego": "Mañana",
+      "Igor": "Tarde",
+      "Vero": "Tarde"
+    }
+  },
+  "2026-04-13": {
+    "festivo": "San Vicente Ferrer",
+    "tipo": "local",
+    "trabajadores": {
+      "Eder": "Noche",
+      "Jose Manuel": "Mañana",
+      "Carlos": "Tarde",
+      "Carla": "Mañana",
+      "Bego": "Mañana",
+      "Andreea": "Partido",
+      "Vero": "Tarde"
+    }
+  }
+}

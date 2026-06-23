@@ -1,0 +1,1878 @@
+{
+  "2026-03-02": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ],
+      "Carlos": [
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana"
+      ],
+      "Carla": [
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Tarde",
+        "Tarde"
+      ],
+      "Bego": [
+        "Tarde",
+        "Tarde",
+        "Partido",
+        "Partido",
+        "Libre",
+        "Libre",
+        "Mañana"
+      ],
+      "Andreea": [
+        "Partido",
+        "Mañana",
+        "Mañana",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Igor": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Partido",
+        "Mañana",
+        "Partido"
+      ],
+      "Vero": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-03-16": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana"
+      ],
+      "Carlos": [
+        "Partido",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Tarde"
+      ],
+      "Carla": [
+        "Mañana",
+        "Mañana",
+        "Tarde",
+        "Tarde",
+        "Partido",
+        "Libre",
+        "Libre"
+      ],
+      "Bego": [
+        "Mañana",
+        "Partido",
+        "Mañana",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Andreea": [
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ],
+      "Igor": [
+        "Tarde",
+        "Tarde",
+        "Partido",
+        "Partido",
+        "Libre",
+        "Libre",
+        "Mañana"
+      ],
+      "Vero": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-03-23": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Mañana",
+        "Tarde",
+        "Tarde",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Carlos": [
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Tarde",
+        "Tarde",
+        "Partido",
+        "Tarde"
+      ],
+      "Carla": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Tarde",
+        "Tarde"
+      ],
+      "Bego": [
+        "Partido",
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana"
+      ],
+      "Andreea": [
+        "Tarde",
+        "Tarde",
+        "Partido",
+        "Partido",
+        "Libre",
+        "Libre",
+        "Mañana"
+      ],
+      "Igor": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Partido",
+        "Mañana",
+        "Partido"
+      ],
+      "Vero": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-03-09": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Libre",
+        "Libre",
+        "Partido",
+        "Partido",
+        "Mañana",
+        "Mañana",
+        "Tarde"
+      ],
+      "Carlos": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Partido",
+        "Mañana",
+        "Mañana"
+      ],
+      "Carla": [
+        "Mañana",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Partido",
+        "Mañana"
+      ],
+      "Bego": [
+        "Partido",
+        "Mañana",
+        "Mañana",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Andreea": [
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Partido"
+      ],
+      "Igor": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ],
+      "Vero": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-03-30": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Partido",
+        "Mañana",
+        "Partido",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Carlos": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ],
+      "Carla": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Partido",
+        "Tarde",
+        "Tarde",
+        "Partido"
+      ],
+      "Bego": [
+        "Mañana",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Partido",
+        "Mañana",
+        "Mañana"
+      ],
+      "Andreea": [
+        "Mañana",
+        "Partido",
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde"
+      ],
+      "Igor": [
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana"
+      ],
+      "Vero": [
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-04-06": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Libre",
+        "Libre",
+        "Partido",
+        "Tarde",
+        "Partido",
+        "Mañana",
+        "Mañana"
+      ],
+      "Carlos": [
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ],
+      "Carla": [
+        "Partido",
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Tarde"
+      ],
+      "Bego": [
+        "Mañana",
+        "Tarde",
+        "Tarde",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Andreea": [
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Partido",
+        "Libre",
+        "Libre",
+        "Mañana"
+      ],
+      "Igor": [
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Tarde",
+        "Partido",
+        "Partido"
+      ],
+      "Vero": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-05-11": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Libre",
+        "Libre",
+        "Partido",
+        "Partido",
+        "Tarde",
+        "Tarde",
+        "Partido"
+      ],
+      "Carlos": [
+        "Partido",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Partido",
+        "Mañana",
+        "Mañana"
+      ],
+      "Carla": [
+        "Mañana",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana"
+      ],
+      "Bego": [
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Andreea": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Mañana"
+      ],
+      "Igor": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Partido",
+        "Tarde"
+      ],
+      "Vero": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-05-04": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Libre",
+        "Libre",
+        "Partido",
+        "Partido",
+        "Mañana",
+        "Partido",
+        "Partido"
+      ],
+      "Carlos": [
+        "Partido",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana"
+      ],
+      "Carla": [
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Partido",
+        "Mañana",
+        "Mañana"
+      ],
+      "Bego": [
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde"
+      ],
+      "Andreea": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Igor": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ],
+      "Vero": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-04-27": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Partido",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Tarde",
+        "Libre",
+        "Libre"
+      ],
+      "Carlos": [
+        "Tarde",
+        "Partido",
+        "Mañana",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Carla": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ],
+      "Bego": [
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Partido",
+        "Partido",
+        "Mañana",
+        "Partido"
+      ],
+      "Andreea": [
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana"
+      ],
+      "Igor": [
+        "Mañana",
+        "Tarde",
+        "Partido",
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Mañana"
+      ],
+      "Vero": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-04-13": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Libre",
+        "Libre",
+        "Partido",
+        "Partido",
+        "Mañana",
+        "Mañana",
+        "Mañana"
+      ],
+      "Carlos": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Partido"
+      ],
+      "Carla": [
+        "Mañana",
+        "Tarde",
+        "Tarde",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Bego": [
+        "Mañana",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Partido",
+        "Mañana",
+        "Tarde"
+      ],
+      "Andreea": [
+        "Partido",
+        "Mañana",
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde"
+      ],
+      "Igor": [
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Partido",
+        "Mañana"
+      ],
+      "Vero": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-04-20": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Partido",
+        "Tarde",
+        "Tarde",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Carlos": [
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Tarde",
+        "Tarde"
+      ],
+      "Carla": [
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Partido"
+      ],
+      "Bego": [
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ],
+      "Andreea": [
+        "Tarde",
+        "Tarde",
+        "Partido",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Mañana"
+      ],
+      "Igor": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Partido",
+        "Partido",
+        "Mañana",
+        "Mañana"
+      ],
+      "Vero": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-05-18": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Tarde",
+        "Partido",
+        "Partido",
+        "Tarde"
+      ],
+      "Carlos": [
+        "Partido",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana"
+      ],
+      "Carla": [
+        "Mañana",
+        "Mañana",
+        "Tarde",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Bego": [
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana",
+        "Mañana"
+      ],
+      "Andreea": [
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Mañana"
+      ],
+      "Igor": [
+        "Libre",
+        "Libre",
+        "Partido",
+        "Partido",
+        "Tarde",
+        "Tarde",
+        "Partido"
+      ],
+      "Vero": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes",
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  },
+  "2026-06-22": {
+    "schedule": {
+      "Eder": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche"
+      ],
+      "Jose Manuel": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Martin": [
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Tarde",
+        "Tarde",
+        "Partido",
+        "Mañana"
+      ],
+      "Carlos": [
+        "Mañana",
+        "Tarde",
+        "Tarde",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre"
+      ],
+      "Carla": [
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Partido",
+        "Mañana",
+        "Mañana",
+        "Partido"
+      ],
+      "Bego": [
+        "Partido",
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Partido",
+        "Mañana",
+        "Mañana"
+      ],
+      "Andreea": [
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde"
+      ],
+      "Igor": [
+        "Libre",
+        "Libre",
+        "Partido",
+        "Mañana",
+        "Mañana",
+        "Tarde",
+        "Tarde"
+      ],
+      "Vero": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Eder",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Jose Manuel",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Martin",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Carlos",
+        "role": "normal",
+        "preferences": [],
+        "forced_days_off": [
+          "Sábado",
+          "Domingo"
+        ]
+      },
+      {
+        "name": "Carla",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Bego",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Andreea",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Igor",
+        "role": "adjunto_recepcion",
+        "preferences": []
+      },
+      {
+        "name": "Vero",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      }
+    ]
+  }
+}

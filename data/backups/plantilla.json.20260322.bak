@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Eder",
+    "role": "night_fixed",
+    "preferences": [
+      "Noche"
+    ]
+  },
+  {
+    "name": "Jose Manuel",
+    "role": "jefe",
+    "preferences": [
+      "Mañana"
+    ]
+  },
+  {
+    "name": "Martin",
+    "role": "normal",
+    "preferences": []
+  },
+  {
+    "name": "Carlos",
+    "role": "normal",
+    "preferences": []
+  },
+  {
+    "name": "Carla",
+    "role": "normal",
+    "preferences": []
+  },
+  {
+    "name": "Bego",
+    "role": "normal",
+    "preferences": []
+  },
+  {
+    "name": "Andreea",
+    "role": "normal",
+    "preferences": []
+  },
+  {
+    "name": "Igor",
+    "role": "adjunto_recepcion",
+    "preferences": []
+  }
+]

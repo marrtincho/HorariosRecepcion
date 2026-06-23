@@ -1,0 +1,174 @@
+{
+  "2026-04-06": {
+    "schedule": {
+      "Fran": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche"
+      ],
+      "Rubén": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Gloria": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Noche",
+        "Noche",
+        "Tarde"
+      ],
+      "Tomás": [
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Partido",
+        "Tarde",
+        "Tarde",
+        "Partido"
+      ],
+      "Inés": [
+        "Partido",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Partido",
+        "Mañana",
+        "Mañana"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Fran",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Rubén",
+        "role": "normal",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Gloria",
+        "role": "normal",
+        "preferences": [
+          "Tarde"
+        ],
+        "night_cover_this_week": true,
+        "covered_nights_prev_week": true
+      },
+      {
+        "name": "Tomás",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Inés",
+        "role": "normal",
+        "preferences": [
+          "Mañana"
+        ]
+      }
+    ]
+  },
+  "2026-06-22": {
+    "schedule": {
+      "Fran": [
+        "Noche",
+        "Noche",
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Noche"
+      ],
+      "Rubén": [
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Partido",
+        "Mañana",
+        "Mañana",
+        "Mañana"
+      ],
+      "Gloria": [
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre"
+      ],
+      "Tomás": [
+        "Partido",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Partido",
+        "Tarde",
+        "Partido"
+      ],
+      "Inés": [
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche",
+        "Tarde"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Fran",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "Rubén",
+        "role": "normal",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Gloria",
+        "role": "normal",
+        "preferences": [
+          "Tarde"
+        ]
+      },
+      {
+        "name": "Tomás",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Inés",
+        "role": "normal",
+        "preferences": [
+          "Mañana"
+        ],
+        "night_cover_this_week": true,
+        "covered_nights_prev_week": true
+      }
+    ]
+  }
+}

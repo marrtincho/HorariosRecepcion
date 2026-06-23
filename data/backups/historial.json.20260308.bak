@@ -1,0 +1,150 @@
+{
+  "2026-03-02": {
+    "schedule": {
+      "Carlos": [
+        "Libre",
+        "Libre",
+        "Noche",
+        "Noche",
+        "Noche",
+        "Noche",
+        "Noche"
+      ],
+      "María": [
+        "Noche",
+        "Noche",
+        "Libre",
+        "Libre",
+        "Partido",
+        "Tarde",
+        "Tarde"
+      ],
+      "Juan": [
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Laura": [
+        "Tarde",
+        "Tarde",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Partido",
+        "Tarde"
+      ],
+      "Pedro": [
+        "Partido",
+        "Mañana",
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Mañana",
+        "Mañana"
+      ],
+      "Ana": [
+        "Mañana",
+        "Tarde",
+        "Partido",
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Mañana"
+      ],
+      "Miguel": [
+        "Tarde",
+        "Partido",
+        "Tarde",
+        "Partido",
+        "Mañana",
+        "Libre",
+        "Libre"
+      ],
+      "Sofía": [
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Tarde"
+      ],
+      "Diego": [
+        "Mañana",
+        "Libre",
+        "Libre",
+        "Tarde",
+        "Tarde",
+        "Tarde",
+        "Partido"
+      ]
+    },
+    "staff": [
+      {
+        "name": "Carlos",
+        "role": "night_fixed",
+        "preferences": [
+          "Noche"
+        ]
+      },
+      {
+        "name": "María",
+        "role": "night_backup",
+        "preferences": [
+          "Noche",
+          "Tarde"
+        ]
+      },
+      {
+        "name": "Juan",
+        "role": "jefe",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Laura",
+        "role": "subjefe",
+        "preferences": [
+          "Tarde"
+        ]
+      },
+      {
+        "name": "Pedro",
+        "role": "normal",
+        "preferences": [
+          "Mañana",
+          "Partido"
+        ]
+      },
+      {
+        "name": "Ana",
+        "role": "normal",
+        "preferences": []
+      },
+      {
+        "name": "Miguel",
+        "role": "normal",
+        "preferences": [
+          "Tarde"
+        ]
+      },
+      {
+        "name": "Sofía",
+        "role": "normal",
+        "preferences": [
+          "Mañana"
+        ]
+      },
+      {
+        "name": "Diego",
+        "role": "normal",
+        "preferences": []
+      }
+    ]
+  }
+}
