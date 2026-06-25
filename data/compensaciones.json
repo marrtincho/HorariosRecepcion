@@ -41,7 +41,7 @@
   },
   "Andreea": {
     "modalidad": "cobrar",
-    "la_saldo": 2
+    "la_saldo": 224
   },
   "Igor": {
     "modalidad": "cobrar",
@@ -50,5 +50,21 @@
   "Anibal": {
     "modalidad": "cobrar",
     "la_saldo": 5
+  },
+  "Carmen": {
+    "modalidad": "cobrar",
+    "la_saldo": 1
+  },
+  "Maira": {
+    "modalidad": "cobrar",
+    "la_saldo": 0
+  },
+  "Seba": {
+    "modalidad": "cobrar",
+    "la_saldo": 0
+  },
+  "Lucia": {
+    "modalidad": "cobrar",
+    "la_saldo": 1
   }
 }

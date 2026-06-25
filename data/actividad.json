@@ -654,5 +654,965 @@
     "accion": "ELIMINAR_ROL",
     "detalle": "Dept:recepcion Rol:recepcionista_tarde",
     "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 08:35:53 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "EDITAR_ROL",
+    "detalle": "Dept:recepcion Rol:night_fixed",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:41 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:44 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:45 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:45 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:46 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:47 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:50 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:51 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:52 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:52 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:53 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:37:55 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:38:00 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:38:01 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:38:17 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:17 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:18 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:19 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:21 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:22 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:22 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:24 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:25 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:25 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:26 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:26 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:27 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:27 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:39 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-15",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:41 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-08",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:43 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-01",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:45 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:46 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:46 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:47 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:47 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:47 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:47 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:47 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:48 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:48 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:48 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:39:49 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:40:40 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:40:44 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:40:45 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:40:45 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:40:50 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:40:51 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:59:14 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "EDITAR_ROL",
+    "detalle": "Dept:recepcion Rol:night_fixed",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:59:21 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:59:47 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "EDITAR_ROL",
+    "detalle": "Dept:recepcion Rol:night_fixed",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:59:51 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 08:59:57 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:00:04 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-07-06",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:10:13 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:10:23 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:10:33 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:10:42 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:10:50 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-07-06",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:10:53 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-07-13",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:10:59 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-01",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:10:59 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-08",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:11:00 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-15",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:11:02 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:11:02 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:11:10 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-05-25",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:11:27 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-01",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:11:34 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-08",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:25:41 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:25:46 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 09:25:53 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-07-06",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:49 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-08",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:50 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-15",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:51 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:51 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:52 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-07-06",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:53 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-07-06",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:53 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-07-06",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:54 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-07-06",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:56 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:56 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:59 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-15",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:07:59 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-15",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:00 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-15",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:00 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-15",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:02 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:02 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:03 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:04 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:05 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:05 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:05 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:06 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:06 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:11 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-07-06",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:32 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:41 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-01",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:43 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-08",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:45 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-15",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:08:49 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:09:29 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:mozos Semana:2026-05-25",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:10:26 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "EDITAR_ROL",
+    "detalle": "Dept:mozos Rol:night_fixed",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:10:32 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:mozos Semana:2026-05-25",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:12:36 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-01",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:12:39 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-01",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:12:39 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-01",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:13:03 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-08",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:13:10 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-08",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:13:13 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-08",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:14:48 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "EDITAR_ROL",
+    "detalle": "Dept:recepcion Rol:night_fixed",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:20:58 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:21:02 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:21:04 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:21:10 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-29",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:21:16 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-07-06",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:21:20 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-07-13",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:37:51 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:mozos Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 10:37:56 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:mozos Semana:2026-06-29",
+    "ip": "192.168.1.220"
   }
 ]

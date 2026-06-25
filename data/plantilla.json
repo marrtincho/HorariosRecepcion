@@ -24,17 +24,17 @@
     "preferences": []
   },
   {
-    "name": "Carla",
-    "role": "normal",
+    "name": "Carmen",
+    "role": "adjunto_recepcion",
     "preferences": []
   },
   {
-    "name": "Bego",
-    "role": "normal",
+    "name": "Maira",
+    "role": "adjunto_recepcion",
     "preferences": []
   },
   {
-    "name": "Andreea",
+    "name": "Seba",
     "role": "normal",
     "preferences": []
   },
@@ -49,5 +49,10 @@
     "preferences": [
       "Tarde"
     ]
+  },
+  {
+    "name": "Lucia",
+    "role": "adjunto_recepcion",
+    "preferences": []
   }
 ]

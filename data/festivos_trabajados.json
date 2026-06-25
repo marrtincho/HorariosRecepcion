@@ -68,12 +68,10 @@
     "festivo": "San Juan",
     "tipo": "autonómico",
     "trabajadores": {
-      "Eder": "Noche",
-      "Jose Manuel": "Mañana",
-      "Martin": "Partido",
-      "Bego": "Tarde",
-      "Andreea": "Mañana",
-      "Igor": "Tarde"
+      "Borja": "Noche",
+      "Rubén": "Partido",
+      "Gloria": "Tarde",
+      "Tomás": "Mañana"
     }
   }
 }

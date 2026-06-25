@@ -13,10 +13,14 @@
   },
   "Tomás": {
     "modalidad": "cobrar",
-    "la_saldo": 1
+    "la_saldo": 0
   },
   "Inés": {
     "modalidad": "cobrar",
     "la_saldo": 1
+  },
+  "Borja": {
+    "modalidad": "cobrar",
+    "la_saldo": 0
   }
 }

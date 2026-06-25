@@ -4,12 +4,12 @@
     "icon": "★",
     "turno_fijo": "Noche",
     "dias_libres_fijos": [
-      3,
-      4
-    ],
-    "dias_libres_sustituto": [
       5,
       6
+    ],
+    "dias_libres_sustituto": [
+      0,
+      1
     ],
     "sin_noches": false,
     "unico": true,
@@ -62,19 +62,5 @@
     "unico": false,
     "protegido": true,
     "borrable": false
-  },
-  "recepcionista_tarde": {
-    "label": "Recepcionista Tarde",
-    "icon": "",
-    "turno_fijo": "Tarde",
-    "dias_libres_fijos": [
-      1,
-      2
-    ],
-    "dias_libres_sustituto": null,
-    "sin_noches": false,
-    "unico": false,
-    "protegido": false,
-    "borrable": true
   }
 }
