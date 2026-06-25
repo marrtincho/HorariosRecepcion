@@ -18,5 +18,25 @@
     "salt": "32dab9f256d7f727d40b8e05bf0a7213",
     "activo": true,
     "empleado_vinculado": null
+  },
+  {
+    "id": "3",
+    "username": "martin",
+    "nombre": "Martin",
+    "rol": "empleado",
+    "hash": "f808f296dd91d5cf33b1167d4ab5e10e487bd743684560b21525abba98a93ae3",
+    "salt": "bcc73113e52b63a71cc4b09654187f55",
+    "activo": true,
+    "empleado_vinculado": "Martin"
+  },
+  {
+    "id": "4",
+    "username": "enc_test_roles",
+    "nombre": "Enc Test",
+    "rol": "encargado",
+    "hash": "718e5831eee2ceae1d7b5e297173c4241c6b1c415941256cf6e6af47ef378c73",
+    "salt": "2f28b958d0800d3197fe4a8d8cd04d93",
+    "activo": true,
+    "empleado_vinculado": null
   }
 ]

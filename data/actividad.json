@@ -406,5 +406,253 @@
     "accion": "GENERAR_HORARIO",
     "detalle": "Dept:recepcion Semana:2026-06-22",
     "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-23 12:15:43 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "LOGIN",
+    "detalle": "Sesión iniciada",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-23 12:16:27 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "LOGOUT",
+    "detalle": "Sesión cerrada",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-23 12:16:40 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "LOGIN",
+    "detalle": "Sesión iniciada",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-23 12:16:45 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-23 12:17:49 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:mozos Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-23 12:18:15 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-24 23:53:28 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "LOGIN",
+    "detalle": "Sesión iniciada",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-24 23:53:30 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-15",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 00:09:48 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "LOGIN",
+    "detalle": "Sesión iniciada",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 00:10:01 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 00:10:14 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "CREAR_USUARIO",
+    "detalle": "Usuario 'encargado1' (encargado) creado",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 00:10:14 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-08",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 00:10:33 UTC",
+    "usuario": "encargado1",
+    "rol": "encargado",
+    "accion": "LOGIN",
+    "detalle": "Sesión iniciada",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 00:10:33 UTC",
+    "usuario": "encargado1",
+    "rol": "encargado",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 00:11:08 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "ELIMINAR_USUARIO",
+    "detalle": "Usuario ID 4 eliminado",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 00:23:42 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "LOGIN",
+    "detalle": "Sesión iniciada",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 00:23:42 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-06-22",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 00:26:14 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2027-03-01",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 00:31:36 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2027-03-01",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 00:55:40 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "LOGOUT",
+    "detalle": "Sesión cerrada",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 00:55:44 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "LOGIN",
+    "detalle": "Sesión iniciada",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 00:55:57 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-05-18",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 00:56:07 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-05-11",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 00:56:10 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-05-04",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 00:56:15 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "GENERAR_HORARIO",
+    "detalle": "Dept:recepcion Semana:2026-05-25",
+    "ip": "192.168.1.220"
+  },
+  {
+    "ts": "2026-06-25 07:58:04 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "LOGIN",
+    "detalle": "Sesión iniciada",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 07:58:04 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "CREAR_USUARIO",
+    "detalle": "Usuario 'enc_test_roles' (encargado) creado",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 07:58:04 UTC",
+    "usuario": "enc_test_roles",
+    "rol": "encargado",
+    "accion": "LOGIN",
+    "detalle": "Sesión iniciada",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 07:58:19 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "ELIMINAR_USUARIO",
+    "detalle": "Usuario ID 4 eliminado",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 07:58:41 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "CREAR_ROL",
+    "detalle": "Dept:recepcion Rol:recepcionista_tarde",
+    "ip": "127.0.0.1"
+  },
+  {
+    "ts": "2026-06-25 07:59:52 UTC",
+    "usuario": "admin",
+    "rol": "admin",
+    "accion": "ELIMINAR_ROL",
+    "detalle": "Dept:recepcion Rol:recepcionista_tarde",
+    "ip": "127.0.0.1"
   }
 ]

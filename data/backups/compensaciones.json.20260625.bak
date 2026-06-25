@@ -1,0 +1,54 @@
+{
+  "Eder": {
+    "modalidad": "cobrar",
+    "la_saldo": 3
+  },
+  "María": {
+    "modalidad": "cobrar",
+    "la_saldo": 0
+  },
+  "Jose Manuel": {
+    "modalidad": "librar_mismo_dia",
+    "la_saldo": 0
+  },
+  "Vero": {
+    "modalidad": "dia_libre_eleccion",
+    "la_saldo": 0
+  },
+  "Martin": {
+    "modalidad": "cobrar",
+    "la_saldo": 2
+  },
+  "Bego": {
+    "modalidad": "cobrar",
+    "la_saldo": 0
+  },
+  "asd": {
+    "modalidad": "cobrar",
+    "la_saldo": 0
+  },
+  "Carlos": {
+    "modalidad": "dia_libre_eleccion",
+    "la_saldo": 0
+  },
+  "Martinasd": {
+    "modalidad": "cobrar",
+    "la_saldo": 0
+  },
+  "Carla": {
+    "modalidad": "cobrar",
+    "la_saldo": 1
+  },
+  "Andreea": {
+    "modalidad": "cobrar",
+    "la_saldo": 2
+  },
+  "Igor": {
+    "modalidad": "cobrar",
+    "la_saldo": 3
+  },
+  "Anibal": {
+    "modalidad": "cobrar",
+    "la_saldo": 5
+  }
+}
